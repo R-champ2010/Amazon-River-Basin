@@ -1,0 +1,68 @@
+.links{
+	display: inline;
+	color: grey;
+	padding-top: 5px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 5px;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	border:color:darkmagenta;
+	border-style:solid;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+body{
+	text-align: center;
+	background: rgb(183,104,235);
+background: linear-gradient(320deg, rgba(183,104,235,1) 0%, rgba(221,67,67,1) 50%, rgba(245,181,92,1) 100%);
+}
+marquee{
+	background: rgb(124,216,107);
+    background: linear-gradient(130deg, rgba(124,216,107,1) 0%, rgba(106,219,205,1) 55%, rgba(241,93,93,1) 97%);
+	border-style: dashed;
+	font-size: 35px;
+	color: firebrick;
+	border-color:rgb(225,82,210) linear-gradient(29deg, rgba(225,82,210,1) 0%, rgba(93,75,251,1) 100%);;
+ 
+}
+.book{
+	cursor: pointer;
+}
+.book hr{
+	margin-bottom: 10px;
+}
+.modal-content{
+	margin-top: 100px;
+}
+.img_modal{
+	display: inline-block;
+}
+.p_modal{
+	margin-top: 10px;
+}
+.modal-body{
+	text-align: center;
+}
+.header_entrepreneur{
+	line-height:2;
+}
+.links:hover{
+	background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	font-size: 25px;
+	text-decoration: underline;
+	text-decoration-color: darkred;
+}
+
+
+
+
+
+
+
+
+
+
